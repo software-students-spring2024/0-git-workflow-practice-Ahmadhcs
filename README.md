@@ -7,5 +7,6 @@ Incorporating Progressive Web App (PWA) features into an existing web applicatio
 ## Comments by Jakob Hablitz 
 #### **Github:** jsh9965 **Discord:** Jakob
 
-There was no link to an accompanying article, but I believe this comment is in response to **[this linkedIn post](https://www.linkedin.com/pulse/integration-progressive-web-apps-pwas-application-)**.
+There was no link to an accompanying article, but I googled the topic and read **[this linkedIn post](https://www.linkedin.com/pulse/integration-progressive-web-apps-pwas-application-)** about the mentioned subject.
 
+Overall, I find it a very interesting idea with the capability to lead to some very powerful web apps.  Taking advantage of user hardware through the browser is something I had previously only heard much about in terms of gaming through the browser, but there is definitely a lot of potential for developers to create some interesting apps using this methodology.  My only concern is that making apps easily accessible through links and usurping the app store opens the door for bad actors to abuse the lower barrier to entry to create malicious web apps, and take advantage of things like client side rendering to steal computing power.
